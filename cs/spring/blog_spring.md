@@ -1,4 +1,4 @@
-# [1] Servlet & Spring MVC
+# [1] 블로그 정리 - Servlet & Spring MVC
     
 ## [1-1] [Servlet & 생명주기](https://hyunjong96.tistory.com/20)
 - Servlet, 동작원리, 생명주기
